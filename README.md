@@ -1,7 +1,7 @@
 # 🚀 portfolioHUB - [Seu Nome Completo]
 
 <div align="center">
-  <img src="./assets/suafoto.jpg" width="150px" style="border-radius: 50%;" alt="Foto Profissional">
+  <img src="0.jpg" width="150px" style="border-radius: 50%;" alt="Foto Profissional">
   [cite_start]<p><i>"Breve biografia: Estudante de [Seu Curso] apaixonado por [Sua Área], focado em desenvolver soluções que [Seu Objetivo]." [cite: 14]</i></p>
 
   ### 📫 Contatos
