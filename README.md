@@ -20,7 +20,7 @@
 * **Desenvolvimento de Software:** Prática constante de lógica de programação e algoritmos em Java.
 
 ### Habilidades Técnicas e Pessoais
-* **Técnicas (Hard Skills):** Java, SQL, GIT e GitHub, Excel Avançado, Noções em Power BI, Análise de Dados, Suporte e Documentação.
+* **Técnicas (Hard Skills):** Java (POO), SQL (MySQL/PolstgreSQL), GIT e GitHub, Excel Avançado, Noções em Power BI, Análise de Dados, Suporte e Documentação.
 * **Pessoais (Soft Skills):** Proatividade, Pensamento Analítico, Trabalho em Equipe e Organização.
 * **Idiomas:** Português (Nativo) | Inglês Intermediário (Escrita, leitura e conversação).
 * **Certificações:** Excel Avançado - Fundação Bradesco; Java COMPLETO com POO - Udemy (Em andamento); Microsoft Azure Fundamentals(AZ-900) - Microsoft (Em andamento). 
