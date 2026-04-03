@@ -5,7 +5,7 @@
   [cite_start]<p><i>"Breve biografia: Estudante de [Seu Curso] apaixonado por [Sua Área], focado em desenvolver soluções que [Seu Objetivo]." [cite: 14]</i></p>
 
   ### 📫 Contatos
-  [LinkedIn]([SEU_LINK](https://www.linkedin.com/in/felipehonorio00/)) | [E-mail](SEU_EMAIL) | [cite_start][Outros Contatos] [cite: 14]
+  [LinkedIn](https://www.linkedin.com/in/felipehonorio00/) | [felipe.honorio@sempreceub.com](mailto:felipe.honorio@sempreceub.com) | [cite_start][Outros Contatos] [cite: 14]
 </div>
 
 ---
